@@ -576,14 +576,9 @@ $ roslaunch pcl_tutorial tracker.launch
 <div align="center">
     <img src="doc/tracker.gif" alt="tracker">
 </div>
-<div style="text-align: center;">
-    ・水色のポイントクラウド：追跡結果  
-    
-    ・赤色のポイントクラウド：パーティクル  
-    
-    ・赤色の球体：追跡結果の重心  
-</div>
-
+<center>水色のポイントクラウド：追跡結果  </center>  
+<center>赤色のポイントクラウド：パーティクル    </center>  
+<center>赤色の球体：追跡結果の重心   </center>  
 
 [目次に戻る](#%E7%9B%AE%E6%AC%A1)
 
