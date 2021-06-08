@@ -572,6 +572,7 @@ sample srcでは，はじめにクラスタリングを用いて追跡対象と�
 ```cpp
 $ roslaunch pcl_tutorial tracker.launch
 ```
+{: align="center"}
 ![tracker](doc/tracker.gif)  
 <div align="center">
 ・水色のポイントクラウド：追跡結果  
