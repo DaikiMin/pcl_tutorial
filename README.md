@@ -75,7 +75,7 @@ c:\program files\pcl 1.8.1\include\pcl-1.8\pcl\sample_consensus\model_types.h(99
 model_types.hで該当するコードをコメントアウトすることで対処できます．
 ```bash
 $ cd /usr/include/pcl-1.8/pcl/sample_consensus/
-$ sudu vi model_types.h
+$ sudo vi model_types.h
 ```
 
 コメントアウトは以下の部分です．
