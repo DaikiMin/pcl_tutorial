@@ -573,11 +573,12 @@ sample srcでは，はじめにクラスタリングを用いて追跡対象と�
 $ roslaunch pcl_tutorial tracker.launch
 ```
 {: align="center"}
-![tracker](doc/tracker.gif)  
+
 <div align="center">
-・水色のポイントクラウド：追跡結果  
-・赤色のポイントクラウド：パーティクル  
-・赤色の球体：追跡結果の重心  
+    <img src="doc/tracker.gif" alt="tracker">
+    ・水色のポイントクラウド：追跡結果  
+    ・赤色のポイントクラウド：パーティクル  
+    ・赤色の球体：追跡結果の重心  
 </div>
 
 
